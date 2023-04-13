@@ -1,4 +1,7 @@
 import express, { Application, Request, Response } from "express"
+// const express = require("express")
+// const { Application, Request, Response } = require("express");
+
 import cors from "cors"
 const app: Application = express()
 const PORT = process.env.PORT ?? 8000;

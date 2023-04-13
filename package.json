@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "build": "npm install typescript; tsc",
-    "serve": "node dist/my-server.js"
+    "serve": "node dist/myserver.js"
   },
   "keywords": [],
   "author": "",

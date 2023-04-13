@@ -7,5 +7,5 @@
     "strict": true,                                      
     "outDir": "dist"
   },
-  "files": ["my-server.ts"]
+  "files": ["myserver.ts"]
 }

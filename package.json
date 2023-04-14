@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "build": "npm install typescript; tsc",
+    "build": "npm install",
     "serve": "node dist/myserver.js"
   },
   "keywords": [],
